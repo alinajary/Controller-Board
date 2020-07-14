@@ -1,5 +1,5 @@
 # Controller-Board
-This is a kind of controller board with different peripherals which is needed to create a hardware in the loop test. the goal of this project is create a testbed for user that can easily use different peripherals of a microcontroller. This board has a LAN interface which can easily communicate with a Labview or Matlab based UGI. these are all the peripherals of this board which is based on ARM LPC1768.
+This is a kind of controller board with different peripherals that can be used in different applications. the goal of this board is to create a simple testbed for users that can easily use different peripherals of a microcontroller with just a primitive knowledge about Matlab and Labview. This board has a LAN interface that can easily communicate with a Labview or Matlab based UGI. these are all the peripherals of this board which is based on ARM LPC1768.
 
 ![Capture](https://user-images.githubusercontent.com/60741325/87411297-cf947c00-c5c7-11ea-913c-aa56bb2a721f.PNG)
 
